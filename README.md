@@ -110,4 +110,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Muhammad Ukasha**. I’m a Data Science student passionate about SQL, Python, and Data Analytics. I'm continuously learning, building projects, and sharing my progress here on GitHub as I grow my skils. 
+Hi there! I'm **Muhammad Ukasha**. I’m a Data Science student passionate about SQL, Python, and Data Analytics. I'm continuously learning, building projects, and sharing my progress here on GitHub as I grow my skills. 
